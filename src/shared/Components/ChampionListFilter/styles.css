@@ -1,0 +1,53 @@
+.champion-filter {
+  margin: 0 auto;
+  width: 35%;
+}
+
+.button-section {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.champion-filter__input {
+  margin: 0 10px;
+  width: 100%;
+  height: 20px;
+  background: rgba(0, 0, 0, .3);
+  border: 1px solid rgba(0, 0, 0, .3);
+  border-radius: 4px;
+  padding-left: 10px;
+  box-shadow: inset 0 -5px 45px rgba(100, 100, 100, .2), 0px 0px 1px #000;
+  transition: all .3s ease-in-out;
+  outline: none;
+  color: #fff;
+  font-size: 14px;
+}
+
+.champion-filter__input:focus{
+  box-shadow: inset 0 -5px 45px rgba(100, 100, 100, .4);
+}
+
+.champion-filter__label {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.champion-filter__prompt {
+  margin-left: 10px;
+  white-space: nowrap;
+}
+
+.champion-filter__button {
+  margin: 10px 5px;
+}
+
+@media screen and (max-width: 940px) {
+  .champion-filter {
+    width: 100%;
+  }
+  .champion-filter__prompt {
+    white-space: normal;
+  }
+}

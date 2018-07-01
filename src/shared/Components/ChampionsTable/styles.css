@@ -1,0 +1,11 @@
+.champion-table {
+  margin: 10px auto;
+  width: 80%;
+  text-align: center;
+}
+
+@media screen and (max-width: 1440px) {
+  .champion-table {
+    width: 100%;
+  }
+}

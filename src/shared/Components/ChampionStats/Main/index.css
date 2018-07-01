@@ -1,0 +1,13 @@
+.stats-main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.stats-main__stats-asset {
+  
+}
+
+.stats-main__element {
+  margin: 5px;
+}

@@ -1,0 +1,22 @@
+.button {
+  opacity: .5;
+  width: 80px;
+  padding: 5px;
+  border-radius: 4px;
+  border: none;
+  outline: none;
+  background-color:#2C3446;
+  color:#A7A1AE;
+  cursor: pointer;
+  box-shadow: 0px 0 2px #000;
+}
+
+.button:hover {
+  opacity: 1;
+  box-shadow: 0px 0 3px #000;
+}
+
+.selected-button {
+  opacity: 1;
+  box-shadow: 0px 0 3px #000;
+}

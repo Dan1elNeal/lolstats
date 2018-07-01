@@ -1,0 +1,9 @@
+.chart__header {
+  text-align: center;
+}
+
+.chart__header-text {
+  font-weight: normal;
+  font-size: inherit;
+  margin: 0;
+}

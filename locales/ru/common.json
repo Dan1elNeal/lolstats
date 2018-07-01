@@ -1,0 +1,53 @@
+{
+  "tableHeaders": {
+    "name": "Чемпион",
+    "position": "Позиция",
+    "role": "Роль",
+    "winRate": "Процент побед",
+    "banRate": "Процент баннов",
+    "playRate": "Процент игр",
+    "kills": "Убийства",
+    "deaths": "Смерти",
+    "assists": "Содействия",
+    "totalDamage": "Нанесенный урон",
+    "totalDamageTaken": "Полученный урон",
+    "minionsKilled": "Убито миньонов"
+  },
+  "roles": {
+    "ALL": "Все",
+    "TOP": "Топ",
+    "DUO_SUPPORT": "Поддержка",
+    "JUNGLE": "Лес",
+    "DUO_CARRY": "АДК",
+    "MIDDLE": "Мид"
+  },
+  "prompts": {
+    "championSearch": "Поиск чемпиона"
+  },
+  "elos": {
+    "BRONZE": "Бронза",
+    "SILVER": "Серебро",
+    "GOLD": "Золото",
+    "PLATINUM": "Платина",
+    "PLATINUM,DIAMOND,MASTER,CHALLENGER": "Платина +"
+  },
+  "positions": {
+    "winRates": "Место в рейтинге"
+  },
+  "other": {
+    "rolePicks": "Роли",
+    "winsByMatchLength": "Процент побед по продолжительности игры",
+    "pickrate": "Пикрейт",
+    "gameCount": "Количество сыгранных игр",
+    "highestWinrate": "Наибольший процент побед",
+    "highestCount": "Наибольшее количество игр",
+    "firstItems": "Начальные предметы",
+    "finalItems": "Финальная сборка",
+    "trinkets": "Тринькеты",
+    "summoners": "Умения призывателя",
+    "skillOrder": "Порядок прокачки умений",
+    "winsByMatchesPlayed": "Процент побед по количеству сыгранных игр",
+    "thisAppUse": "Это приложение использует",
+    "language": "Язык"
+  }
+}

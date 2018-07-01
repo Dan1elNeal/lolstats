@@ -1,0 +1,54 @@
+.runes {
+  display: flex;
+  justify-content: space-around;
+  background-color: #323C50;
+  margin: 2px;
+}
+
+.runes__runes-asset {
+}
+
+.runes__runes-wrapper {
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+}
+
+.runes__runes-asset-header {
+  font-size: inherit;
+  color: #4DC3FA;
+  text-align: center;
+}
+
+.runes__runes-main-asset {
+}
+
+.runes__runes-asset-preview {
+
+}
+
+.runes__runes-asset-img-wrapper {
+
+}
+
+.runes__runes-asset-img-wrapper {
+
+}
+
+.runes__runes-secondary-asset {
+
+}
+
+.runes__img {
+  max-width: 60px;
+}
+
+.runes__stats {
+  
+}
+
+.runes__stats-text {
+  text-align: center;
+  
+  margin: 10px;
+}

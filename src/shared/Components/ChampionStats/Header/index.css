@@ -1,0 +1,57 @@
+.stats-header__contollers-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.stats-header__controllers {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.stats-header__controllers_flex-end {
+  justify-content: flex-end;
+}
+
+.stats-header__controllers_flex-start {
+  justify-content: flex-start;
+}
+
+.stats-header__link {
+  opacity: 0.5;
+  display: inline-block;
+  background-color: #2C3446;
+  color: #A7A1AE;
+  cursor: pointer;
+  border-radius: 4px;
+  box-shadow: 0px 0 2px #000;
+  padding: 2px 5px;
+  height: 30px;
+  margin: 5px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.stats-header__link:hover {
+  opacity: 1;
+  box-shadow: 0px 0 3px #000;
+}
+
+.stats-header__link_selected {
+  opacity: 1;
+  box-shadow: 0px 0 3px #000;
+}
+
+.stats-header__link-text {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 3px;
+}
+
+.stats-header__button {
+  margin: 10px 5px;
+}
+
+.stats-header__champion-main-info {
+  margin: 5px;
+}

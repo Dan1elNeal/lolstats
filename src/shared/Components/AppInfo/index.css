@@ -1,0 +1,34 @@
+.app-info {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 30px;
+}
+
+.app-info__aside {
+  font-size: 10px;
+}
+
+.app-info__link {
+  color: #4DC3FA;
+}
+
+.app-info__select {
+  border: none;
+  background-color: #323C50;
+  color:#A7A1AE;
+  font-size: inherit;
+}
+
+.app-info__language {
+  margin-right: 5px;
+}
+
+.app-info_select-placeholder {
+  display: none;
+}
+
+@media screen and (max-width: 1440px) {
+  .app-info {
+    padding: 0 0;
+  }
+}

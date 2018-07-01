@@ -1,0 +1,22 @@
+.champion-table__th {
+  cursor: pointer;
+  position: sticky;
+  top: 0;
+  padding: 10px;
+}
+
+.champion-table__th:hover {
+  background-color: #2C3446;
+}
+
+.champion-table__position:hover {
+  background-color: #1F2739;
+  cursor: default;
+}
+
+.champion-table__triange {
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 14px;
+}

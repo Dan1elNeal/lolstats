@@ -1,0 +1,53 @@
+{
+  "tableHeaders": {
+    "name": "Champion",
+    "position": "Position",
+    "role": "Role",
+    "winRate": "Win rate",
+    "banRate": "Ban rate",
+    "playRate": "Play rate",
+    "kills": "Kills",
+    "deaths": "Deaths",
+    "assists": "Assists",
+    "totalDamage": "Damage dealt",
+    "totalDamageTaken": "Damage taken",
+    "minionsKilled": "Minions killed"
+  },
+  "roles": {
+    "ALL": "All",
+    "TOP": "Top",
+    "DUO_SUPPORT": "Support",
+    "JUNGLE": "Jungle",
+    "DUO_CARRY": "ADC",
+    "MIDDLE": "Middle"
+  },
+  "prompts": {
+    "championSearch": "Champion search"
+  },
+  "positions": {
+    "winRates": "Role rating"
+  },
+  "other": {
+    "rolePicks": "Roles",
+    "winsByMatchLength": "Wins by match length",
+    "pickrate": "Pickrate",
+    "gameCount": "Games played",
+    "highestWinrate": "Highest winrate",
+    "highestCount": "Highest count",
+    "firstItems": "First items",
+    "finalItems": "Final items",
+    "trinkets": "Trinket",
+    "summoners": "Summoners",
+    "skillOrder": "Skill order",
+    "winsByMatchesPlayed": "Wins by matches played",
+    "thisAppUse": "This app use",
+    "language": "Language"
+  },
+  "elos": {
+    "BRONZE": "Bronze",
+    "SILVER": "Silver",
+    "GOLD": "Gold",
+    "PLATINUM": "Platinum",
+    "PLATINUM,DIAMOND,MASTER,CHALLENGER": "Platinum +"
+  }
+}

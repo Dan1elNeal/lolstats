@@ -1,0 +1,39 @@
+.bar {
+  white-space: nowrap;
+}
+
+.bar-div {
+  position: relative;
+  display: inline-block;
+  background: #A7A1AE;
+}
+
+.bar-span {
+  display: inline-block;
+  background: #FFF842;
+}
+
+.rate {
+  font-size: 12px;
+  color: #000;
+  position: absolute;
+  left: 3px;
+  top: 50%;
+  transform: translateY(-50%)
+}
+
+.markers {
+  font-size: 8px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.center-marker {
+  margin-left: 13px;
+}
+
+.caption {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 3px;
+}

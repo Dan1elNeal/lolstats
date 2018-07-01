@@ -1,0 +1,14 @@
+.champion-main-info {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.champion-main-info__image-wrapper {
+  margin-right: 5px;
+  display: inline-block;
+}
+
+.champion-main-info__name {
+  color: #FB667A;
+}
